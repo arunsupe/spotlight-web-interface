@@ -7,8 +7,11 @@ python script to expose this machine's spotlight to the LAN via a web interface.
 search my fileserver using spotlight from anywhere in the LAN using any web browser.
 
 I am an amature at programming and with python. The code does not do any error checking. It 
-blocks with each request. It runs in a terminal window (not demonized). I use it purely as a convenience. 
-The entire family can now find files named "2015 tax return" or whatever from their laptops. I am putting 
+blocks with each request. It runs in a terminal window (not demonized). Importantly, **THERE IS NO AUTHENTICATION/
+VERIFICATION OF THE CONNECTING USER. ALL FILES ARE EXPOSED TO ANYONE WITH ACCESS TO THE COMPUTER'S IP ADDRESS.
+DO NOT USE IT IN ANY PUBLIC LAN.** 
+
+I use it purely as a convenience. The entire family can now find files named "2015 tax return" or whatever from their laptops. I am putting 
 it out there so that anyone who finds it useful may use it. Any help improving it, demonizing it, non-blocking it, 
 improving the UI or porting it to other platforms' native fulltext search functions (Windows, linux, android?!, iOS ;-) etc) 
 is very appreciated and welcome.
