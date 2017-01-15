@@ -33,7 +33,7 @@ To run:
 
 Then:
   - go to http://thiscomputerip:5000/ (where thiscomputerip is the ip address of the computer 
-  running the script
+  running the script)
   
 A blank search bar will appear. Type the query in and hit enter. Results will appear. Click to 
 read or download per borwser and mimetype setting.
