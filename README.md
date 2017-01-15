@@ -10,7 +10,7 @@ I am an amature at programming and with python. The code does not do any error c
 blocks with each request. It runs in a terminal window (not demonized). I use it purely as a convenience. 
 The entire family can now find files named "2015 tax return" or whatever from their laptops. I am putting 
 it out there so that anyone who finds it useful may use it. Any help improving it, demonizing it, non-blocking it, 
-improving the UI or porting it to other platforms' native fulltext search functions (Windows 10, linux etc) 
+improving the UI or porting it to other platforms' native fulltext search functions (Windows, linux, android?!, iOS ;-) etc) 
 is very appreciated and welcome.
 
 It would be cool to have a similar search interface running on every computer/device in the LAN as some 
